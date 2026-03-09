@@ -2,29 +2,58 @@
   "catalog": {
     "schemaVersion": 1,
     "bookDir": "books",
-    "total": 4,
-    "generatedAt": "2026-03-09T05:34:05Z"
+    "total": 6,
+    "groupTotal": 3,
+    "generatedAt": "2026-03-09T07:14:19Z"
   },
   "books": [
     {
-      "id": "book-001",
-      "file": "三体全集 - 刘慈欣.epub",
-      "path": "books/三体全集 - 刘慈欣.epub"
+      "id": "group-001",
+      "name": "历史",
+      "books": [
+        {
+          "id": "book-001",
+          "file": "明朝那些事儿.epub",
+          "path": "books/历史/明朝那些事儿.epub"
+        }
+      ]
     },
     {
-      "id": "book-002",
-      "file": "将夜.epub",
-      "path": "books/将夜.epub"
+      "id": "group-002",
+      "name": "小说",
+      "books": [
+        {
+          "id": "book-002",
+          "file": "三体全集 - 刘慈欣.epub",
+          "path": "books/小说/三体全集 - 刘慈欣.epub"
+        },
+        {
+          "id": "book-003",
+          "file": "将夜.epub",
+          "path": "books/小说/将夜.epub"
+        },
+        {
+          "id": "book-004",
+          "file": "我当阴阳先生的那几年.epub",
+          "path": "books/小说/我当阴阳先生的那几年.epub"
+        },
+        {
+          "id": "book-005",
+          "file": "最后一个道士.epub",
+          "path": "books/小说/最后一个道士.epub"
+        }
+      ]
     },
     {
-      "id": "book-003",
-      "file": "我当阴阳先生的那几年.epub",
-      "path": "books/我当阴阳先生的那几年.epub"
-    },
-    {
-      "id": "book-004",
-      "file": "最后一个道士.epub",
-      "path": "books/最后一个道士.epub"
+      "id": "group-003",
+      "name": "经济",
+      "books": [
+        {
+          "id": "book-006",
+          "file": "聪明的投资者.epub",
+          "path": "books/经济/聪明的投资者.epub"
+        }
+      ]
     }
   ]
 }
