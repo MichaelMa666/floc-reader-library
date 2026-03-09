@@ -1,0 +1,40 @@
+{
+  "catalog": {
+    "schemaVersion": 1,
+    "bookDir": "books",
+    "total": 6,
+    "generatedAt": "2026-03-09T04:15:56Z"
+  },
+  "books": [
+    {
+      "id": "book-001",
+      "file": "三体1.epub",
+      "path": "books/三体1.epub"
+    },
+    {
+      "id": "book-002",
+      "file": "三体2.epub",
+      "path": "books/三体2.epub"
+    },
+    {
+      "id": "book-003",
+      "file": "三体3.epub",
+      "path": "books/三体3.epub"
+    },
+    {
+      "id": "book-004",
+      "file": "将夜.epub",
+      "path": "books/将夜.epub"
+    },
+    {
+      "id": "book-005",
+      "file": "我当阴阳先生的那几年.epub",
+      "path": "books/我当阴阳先生的那几年.epub"
+    },
+    {
+      "id": "book-006",
+      "file": "最后一个道士.epub",
+      "path": "books/最后一个道士.epub"
+    }
+  ]
+}
