@@ -4,7 +4,7 @@
     "bookDir": "books",
     "total": 13,
     "groupTotal": 4,
-    "generatedAt": "2026-04-18T15:25:52Z"
+    "generatedAt": "2026-04-18T15:38:27Z"
   },
   "books": [
     {
@@ -24,23 +24,23 @@
       "books": [
         {
           "id": "book-002",
-          "file": "24-《凡人修仙传》（校对版全本+番外）作者：忘语.epub",
-          "path": "books/小说/24-《凡人修仙传》（校对版全本+番外）作者：忘语.epub"
-        },
-        {
-          "id": "book-003",
           "file": "【精排】神秘复苏 (佛前献花) (z-library.sk, 1lib.sk, z-lib.sk).epub",
           "path": "books/小说/【精排】神秘复苏 (佛前献花) (z-library.sk, 1lib.sk, z-lib.sk).epub"
         },
         {
-          "id": "book-004",
+          "id": "book-003",
           "file": "三体全集 - 刘慈欣.epub",
           "path": "books/小说/三体全集 - 刘慈欣.epub"
         },
         {
-          "id": "book-005",
+          "id": "book-004",
           "file": "凡人修仙传 (忘语) (z-library.sk, 1lib.sk, z-lib.sk).epub",
           "path": "books/小说/凡人修仙传 (忘语) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-005",
+          "file": "剑来.epub",
+          "path": "books/小说/剑来.epub"
         },
         {
           "id": "book-006",
