@@ -2,9 +2,9 @@
   "catalog": {
     "schemaVersion": 1,
     "bookDir": "books",
-    "total": 6,
-    "groupTotal": 3,
-    "generatedAt": "2026-03-09T07:14:19Z"
+    "total": 13,
+    "groupTotal": 4,
+    "generatedAt": "2026-04-18T15:25:52Z"
   },
   "books": [
     {
@@ -24,32 +24,73 @@
       "books": [
         {
           "id": "book-002",
+          "file": "24-《凡人修仙传》（校对版全本+番外）作者：忘语.epub",
+          "path": "books/小说/24-《凡人修仙传》（校对版全本+番外）作者：忘语.epub"
+        },
+        {
+          "id": "book-003",
+          "file": "【精排】神秘复苏 (佛前献花) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/小说/【精排】神秘复苏 (佛前献花) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-004",
           "file": "三体全集 - 刘慈欣.epub",
           "path": "books/小说/三体全集 - 刘慈欣.epub"
         },
         {
-          "id": "book-003",
+          "id": "book-005",
+          "file": "凡人修仙传 (忘语) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/小说/凡人修仙传 (忘语) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-006",
           "file": "将夜.epub",
           "path": "books/小说/将夜.epub"
         },
         {
-          "id": "book-004",
+          "id": "book-007",
+          "file": "我当道士那些年 (仐三) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/小说/我当道士那些年 (仐三) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-008",
           "file": "我当阴阳先生的那几年.epub",
           "path": "books/小说/我当阴阳先生的那几年.epub"
         },
         {
-          "id": "book-005",
+          "id": "book-009",
           "file": "最后一个道士.epub",
           "path": "books/小说/最后一个道士.epub"
+        },
+        {
+          "id": "book-010",
+          "file": "炼气十万年.epub",
+          "path": "books/小说/炼气十万年.epub"
+        },
+        {
+          "id": "book-011",
+          "file": "鬼吹灯 8部全集图文版 (天下霸唱) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/小说/鬼吹灯 8部全集图文版 (天下霸唱) (z-library.sk, 1lib.sk, z-lib.sk).epub"
         }
       ]
     },
     {
       "id": "group-003",
+      "name": "情感",
+      "books": [
+        {
+          "id": "book-012",
+          "file": "乖，摸摸头.epub",
+          "path": "books/情感/乖，摸摸头.epub"
+        }
+      ]
+    },
+    {
+      "id": "group-004",
       "name": "经济",
       "books": [
         {
-          "id": "book-006",
+          "id": "book-013",
           "file": "聪明的投资者.epub",
           "path": "books/经济/聪明的投资者.epub"
         }
