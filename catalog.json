@@ -2,9 +2,9 @@
   "catalog": {
     "schemaVersion": 1,
     "bookDir": "books",
-    "total": 12,
+    "total": 15,
     "groupTotal": 4,
-    "generatedAt": "2026-04-18T16:00:03Z"
+    "generatedAt": "2026-05-23T06:26:26Z"
   },
   "books": [
     {
@@ -86,6 +86,21 @@
       "books": [
         {
           "id": "book-012",
+          "file": "全球视野下的投资机会 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/经济/全球视野下的投资机会 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-013",
+          "file": "全球视野下的投资机会 时寒冰说 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/经济/全球视野下的投资机会 时寒冰说 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-014",
+          "file": "时寒冰说：未来二十年，经济大趋势（未来篇） (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+          "path": "books/经济/时寒冰说：未来二十年，经济大趋势（未来篇） (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+        },
+        {
+          "id": "book-015",
           "file": "聪明的投资者.epub",
           "path": "books/经济/聪明的投资者.epub"
         }
