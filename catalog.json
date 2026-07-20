@@ -2,8 +2,8 @@
   "catalog": {
     "schemaVersion": 1,
     "bookDir": "books",
-    "total": 6,
-    "generatedAt": "2026-04-18T11:40:28Z"
+    "total": 15,
+    "generatedAt": "2026-07-20T01:19:19Z"
   },
   "books": [
     {
@@ -18,21 +18,66 @@
     },
     {
       "id": "book-003",
+      "file": "剑来.epub",
+      "path": "books/小说/剑来.epub"
+    },
+    {
+      "id": "book-004",
       "file": "将夜.epub",
       "path": "books/小说/将夜.epub"
     },
     {
-      "id": "book-004",
+      "id": "book-005",
+      "file": "我当道士那些年 (仐三) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "path": "books/小说/我当道士那些年 (仐三) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+    },
+    {
+      "id": "book-006",
       "file": "我当阴阳先生的那几年.epub",
       "path": "books/小说/我当阴阳先生的那几年.epub"
     },
     {
-      "id": "book-005",
+      "id": "book-007",
       "file": "最后一个道士.epub",
       "path": "books/小说/最后一个道士.epub"
     },
     {
-      "id": "book-006",
+      "id": "book-008",
+      "file": "炼气十万年.epub",
+      "path": "books/小说/炼气十万年.epub"
+    },
+    {
+      "id": "book-009",
+      "file": "神秘复苏 (佛前献花) .epub",
+      "path": "books/小说/神秘复苏 (佛前献花) .epub"
+    },
+    {
+      "id": "book-010",
+      "file": "鬼吹灯 8部全集图文版 (天下霸唱).epub",
+      "path": "books/小说/鬼吹灯 8部全集图文版 (天下霸唱).epub"
+    },
+    {
+      "id": "book-011",
+      "file": "乖，摸摸头.epub",
+      "path": "books/情感/乖，摸摸头.epub"
+    },
+    {
+      "id": "book-012",
+      "file": "全球视野下的投资机会 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "path": "books/经济/全球视野下的投资机会 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+    },
+    {
+      "id": "book-013",
+      "file": "全球视野下的投资机会 时寒冰说 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "path": "books/经济/全球视野下的投资机会 时寒冰说 (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+    },
+    {
+      "id": "book-014",
+      "file": "时寒冰说：未来二十年，经济大趋势（未来篇） (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "path": "books/经济/时寒冰说：未来二十年，经济大趋势（未来篇） (时寒冰) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+    },
+    {
+      "id": "book-015",
       "file": "聪明的投资者.epub",
       "path": "books/经济/聪明的投资者.epub"
     }
